@@ -1,3 +1,5 @@
-# concepts
-Definition of concepts and examples
-1. include::authentication.adoc[Authentication]
+= Concepts
+
+ Definition of concepts and examples
+
+include::authentication.adoc[Authentication]
