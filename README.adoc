@@ -1,5 +1,5 @@
 = Concepts
 
- Definition of concepts and examples
+Definition of concepts and examples
 
-include::authentication.adoc[Authentication]
+include::authentication.adoc[tag=Authentication]
