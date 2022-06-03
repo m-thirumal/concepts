@@ -1,0 +1,14 @@
+= Authentication
+
+=== Three factor authentication:-
+	1. Something you know
+  
+		e.g., password, pin
+    
+	2. Something you have
+		
+    e.g., cell phone, cryptographic hardware
+    
+	3. Something you are
+    
+    e.g., finger print, iris pattern, voice
