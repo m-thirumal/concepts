@@ -2,4 +2,4 @@
 
 Definition of concepts and examples
 
-include::authentication.adoc[tag=Authentication]
+include::authentication.adoc[]
